@@ -33,7 +33,7 @@ Se även våra [slides][slides].
 
 Något lånat
 ===========
-Stort tack till folket från [Riksantikvarieämbetet][raa] för information runt [K-Samsök][ksamsok] och Kringla-appen.
+Stort tack till Martin Duveborg och Mia Carlsson från [Riksantikvarieämbetet][raa] för information runt [K-Samsök][ksamsok] och Kringla-appen.
 
 Tack till [Olof Brickarp][coolof] för [ikonerna][cooloficon]. 
 
