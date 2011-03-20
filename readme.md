@@ -38,7 +38,7 @@ Tack till [Olof Brickarp][coolof] för [ikonerna][cooloficon].
 
 [ksamsok]: http://www.ksamsok.se/
 [raa]: http://www.raa.se/
-coolof]: http://www.yay.se/
+[coolof]: http://www.yay.se/
 [cooloficon]: http://www.yay.se/2011/03/native-android-icons-vector-pack/
 [thumbsup]: http://www.iconfinder.com/icondetails/64879/32/like_thumb_thumbs_up_up_vote_icon
 [iconfinder]: http://www.iconfinder.com
